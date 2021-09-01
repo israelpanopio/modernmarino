@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "main": "src/index.js",
+  "main": "public/inde.html",
   "homepage": "https://israelpanopio.github.io/modernmarino/",
   "dependencies": {
     "bootstrap": "5.0.2",
